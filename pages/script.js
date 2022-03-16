@@ -10,7 +10,7 @@ let foo = () => {
     if(i<1){
         i++
         // div.className = `one_${i}`
-        div.style.background = 'yellow'
+        div.style.background = 'green'
     }else{
         i=0
         // div.className = `one_${i}`
