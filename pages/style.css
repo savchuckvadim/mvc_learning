@@ -1,0 +1,32 @@
+
+#div{
+
+width: 100vh;
+height: 100vh;
+};
+.one_1{
+    width: 100vh;
+height: 100vh;
+background-color: black;
+};
+
+
+.one_2{
+    width: 100vh;
+    height: 100vh;
+    background-color: rgb(167, 84, 84);
+};
+
+
+.one_3{
+    background-color: rgb(231, 37, 134);
+};
+
+.one_2{
+    background-color: rgb(34, 221, 75);
+};
+
+
+.one_3{
+    background-color: rgb(255, 0, 200);
+};
